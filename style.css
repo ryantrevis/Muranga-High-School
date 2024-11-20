@@ -1,0 +1,43 @@
+nav {
+    background-color: greenyellow;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    padding: 5px 10px;
+}
+
+nav a:hover {
+    background-color: greenyellow;
+}
+
+h1 {
+    color: green;
+}
+
+p {
+    font-size: large;
+    font-family: sans-serif;
+}
+
+h3 {
+    color:yellow;
+}
+
+body {
+    background-color: greenyellow;
+}
